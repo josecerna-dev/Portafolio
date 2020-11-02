@@ -20,7 +20,7 @@ _O simplemente descargue el proyecto._
 
 ## Autor ✒️
 
-- **Jose Cerna** - _Trabajo Inicial_ - [villanuevand](https://github.com/josecerna-dev)
+- **Jose Cerna** - _Trabajo Inicial_ - [JOSECERNA](https://github.com/josecerna-dev)
 
 ## Licencia 📄
 
